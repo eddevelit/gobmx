@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="11acbb8c-8fc2-412d-9117-8a1d26a1d870">
+  <Table name="GobMX_Predio" />
+  <Table name="GobMX_PredioCoo" />
+</Dependencies>

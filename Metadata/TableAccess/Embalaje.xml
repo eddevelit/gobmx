@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e5ec1e79-18d2-4706-86ae-55ec4d4cc736">
+  <Table name="Embalaje" />
+  <Table name="DatosTratamientoA" />
+  <Table name="Tramite03043_C_1" />
+</Dependencies>

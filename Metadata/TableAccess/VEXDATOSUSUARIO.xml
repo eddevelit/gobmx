@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7fb1a57f-61ac-4684-95af-495cc8c4cd64">
+  <Table name="VEXDATOSUSUARIO" />
+  <Table name="VLKCAT_TIPO_ASEN" />
+  <Table name="Vlkdelegacion_municipio" />
+</Dependencies>

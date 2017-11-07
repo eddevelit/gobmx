@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="302c8344-9956-4a4c-b7be-f893e4f24cf0">
+  <Table name="Bitacora" />
+  <Table name="DatosSolicitud" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="AreaPlaga" />
+  <Table name="RepresentanteLegal" />
+  <Table name="GobMX_Observa" />
+  <Table name="ObservaRBFA" />
+  <Table name="Predio" />
+  <Table name="RBF" />
+  <Table name="Tramite02004_F" />
+  <Table name="ASENTAMIENTO" />
+</Dependencies>

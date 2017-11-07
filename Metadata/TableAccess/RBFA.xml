@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="51063418-c371-468d-a8ca-92ca41d6712f">
+  <Table name="Especie" />
+  <Table name="EspecieNomEspecie" />
+  <Table name="Genero" />
+  <Table name="UnidadMed" />
+  <Table name="RBF" />
+  <Table name="RBFA" />
+</Dependencies>

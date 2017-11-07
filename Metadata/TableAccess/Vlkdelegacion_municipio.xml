@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="1cf15cfe-63df-49cf-a3f5-465c56444bda">
+  <Table name="VEXDATOSUSUARIO" />
+  <Table name="Vlkdelegacion_municipio" />
+  <Table name="Vlkentidadfederativa" />
+</Dependencies>

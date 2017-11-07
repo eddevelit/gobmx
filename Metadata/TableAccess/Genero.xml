@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="f47a9d05-c7b7-4df1-9f88-d3ab32e5af13">
+  <Table name="Especie" />
+  <Table name="Genero" />
+</Dependencies>

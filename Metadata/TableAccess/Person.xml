@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="05b52ba0-2844-467d-b0d9-2d62ef37076f">
+  <Table name="Person" />
+  <Table name="TBUsuarioPerfilSNGF" />
+</Dependencies>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="0aa744ef-af84-4c3a-b174-aa64a284be87">
+  <Table name="RBF" />
+  <Table name="Folios" />
+</Dependencies>

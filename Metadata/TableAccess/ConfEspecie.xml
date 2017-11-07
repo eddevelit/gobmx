@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="cb8658fd-9ed9-4c5a-9b2a-84f20d635370">
+  <Table name="Especie" />
+  <Table name="ConfEspecie" />
+</Dependencies>

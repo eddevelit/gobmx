@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="eebac889-f9c3-46a9-8def-21f5f03b2332">
+  <Table name="RBF" />
+  <Table name="RBFLevel2" />
+</Dependencies>

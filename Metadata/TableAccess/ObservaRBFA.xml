@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="39e7fcdd-fe20-4b41-8879-416a473a999a">
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="ObservaRBF" />
+  <Table name="ObservaRBFA" />
+</Dependencies>

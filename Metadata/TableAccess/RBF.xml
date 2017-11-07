@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="78faf982-6562-4fc5-9f15-be303289c8ae">
+  <Table name="Bitacora" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="RBF" />
+  <Table name="RBFA" />
+  <Table name="RBFLevel2" />
+</Dependencies>

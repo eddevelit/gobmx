@@ -1,0 +1,2 @@
+gx.evt.autoSkip=!1;function lugarrecoleccioncopy1(){this.ServerClass="LugarRecoleccionCopy1";this.PackageName="";this.setObjectType("web");this.skipOnEnter=this.hasEnterEvent=!1;this.autoRefresh=!0;this.SetStandaloneVars=function(){};this.e12312_client=function(){this.executeServerEvent("ENTER",!0)};this.e13312_client=function(){this.executeServerEvent("CANCEL",!0)};this.GXValidFnc=[];this.GXLastCtrlId=0;this.ServerEvents=["e12312_client","e13312_client"];this.SetStandaloneVars()}
+lugarrecoleccioncopy1.prototype=new gx.GxObject;gx.setParentObj(new lugarrecoleccioncopy1);

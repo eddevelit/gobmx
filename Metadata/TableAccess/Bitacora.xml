@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="2c44edb6-9c00-417d-84ba-a6975620c338">
+  <Table name="Bitacora" />
+  <Table name="DocEnt" />
+  <Table name="DatosSolicitud" />
+  <Table name="DatosRFN" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="AreaPlaga" />
+  <Table name="RepresentanteLegal" />
+  <Table name="AnexaResolutivo" />
+  <Table name="ObservaRBF" />
+  <Table name="Predio" />
+  <Table name="RBF" />
+  <Table name="Infraestructura" />
+  <Table name="DatosTratamiento" />
+</Dependencies>

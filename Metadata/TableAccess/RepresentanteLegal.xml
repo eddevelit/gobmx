@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="16c32755-3300-4818-9445-03f72951ab6f">
+  <Table name="Bitacora" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="RepresentanteLegal" />
+  <Table name="Paises" />
+</Dependencies>

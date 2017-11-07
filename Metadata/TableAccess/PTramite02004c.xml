@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b8a2a042-fe08-483e-8200-506f0c4643f6">
+  <Table name="Tramite02004_C" />
+  <Table name="Tramite02004_J" />
+  <Table name="Tramite02004_F" />
+</Dependencies>

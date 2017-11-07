@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="c5022a99-0880-4c68-a746-528337f0446b">
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="Tramite02004_F" />
+</Dependencies>

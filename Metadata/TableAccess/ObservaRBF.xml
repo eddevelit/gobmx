@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="918d6177-2c5d-47b3-ac42-95dcc17eb0fb">
+  <Table name="Bitacora" />
+  <Table name="ObservaRBF" />
+  <Table name="ObservaRBFA" />
+</Dependencies>

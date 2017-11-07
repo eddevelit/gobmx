@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="27dd949b-36b5-447f-a154-8ccd8e4ade80">
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="RepresentanteLegal" />
+</Dependencies>

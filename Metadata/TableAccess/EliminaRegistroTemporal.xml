@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="53d76f78-d7ae-4d70-8389-45aa8eee7f37">
+  <Table name="GobMX_Observa" />
+  <Table name="Tramite02004_J" />
+  <Table name="Tramite02004_J1" />
+</Dependencies>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a015ddbc-38e9-c928-4e8f-87439c208cf8">
+  <Table name="AreaPlaga" />
+  <Table name="Folios" />
+</Dependencies>

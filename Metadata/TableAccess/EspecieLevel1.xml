@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="07eb7287-4cd8-4c82-a422-495246b5f2ad">
+  <Table name="Especie" />
+  <Table name="EspecieLevel1" />
+  <Table name="RBFA" />
+</Dependencies>

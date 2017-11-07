@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="932deff1-3563-4f38-ac2f-a90de01fa63c">
+  <Table name="Entidad" />
+  <Table name="EspecieNomEspecie" />
+  <Table name="Genero" />
+  <Table name="UnidadMed" />
+  <Table name="Tramite02004_A" />
+  <Table name="Tramite02004_B" />
+  <Table name="Tramite02004_C" />
+  <Table name="Tramite02004_D" />
+  <Table name="Tramite02004_F" />
+  <Table name="Tramite02004_G" />
+  <Table name="MUNICIPIO" />
+  <Table name="LOCALIDAD" />
+  <Table name="Recurso" />
+</Dependencies>

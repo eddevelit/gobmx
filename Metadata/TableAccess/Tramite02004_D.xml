@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="1ca67c21-a7a2-4dbc-a45c-326d7b79573e">
+  <Table name="Especie" />
+  <Table name="EspecieNomEspecie" />
+  <Table name="Tramite02004_D" />
+</Dependencies>

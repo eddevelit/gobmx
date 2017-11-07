@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="c15d41a0-5814-4c93-99aa-e062d5d4a195">
+  <Table name="GobMX_03043" />
+  <Table name="Embalaje" />
+  <Table name="TipEmbalaje" />
+</Dependencies>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>iso-8859-1</Charset>
+   <Path>file:///C:/Program Files (x86)/Artech/GeneXus/GeneXusXEv2/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>VEXDATOSTRAMITE</ObjName>
+      <ObjDesc>VEXDATOSTRAMITE</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vexdatostramite</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>VEXDATOSUSUARIO</ObjName>
+      <ObjDesc>VEXDATOSUSUARIO</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vexdatosusuario</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>VEXDATOSUSUARIOREP</ObjName>
+      <ObjDesc>VEXDATOSUSUARIOREP</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vexdatosusuariorep</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>VLKCAT_TIPO_ASEN</ObjName>
+      <ObjDesc>VLKCAT_TIPO_ASEN</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vlkcat_tipo_asen</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>VLKCAT_VIALIDAD</ObjName>
+      <ObjDesc>VLKCAT_VIALIDAD</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vlkcat_vialidad</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Vlkdelegacion_municipio</ObjName>
+      <ObjDesc>Vlkdelegacion_municipio</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vlkdelegacion_municipio</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Vlkentidadfederativa</ObjName>
+      <ObjDesc>Entidad Federativa</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vlkentidadfederativa</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Folios</ObjName>
+      <ObjDesc>Folios</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/folios</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Person</ObjName>
+      <ObjDesc>Person</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/person</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Bitacora</ObjName>
+      <ObjDesc>Bitacora</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/bitacora</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>DocEnt</ObjName>
+      <ObjDesc>Doc Ent</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/docent</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Vinculos</ObjName>
+      <ObjDesc>Vinculos</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vinculos</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>DatosSolicitud</ObjName>
+      <ObjDesc>Datos Solicitud</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/datossolicitud</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>DatosRFN</ObjName>
+      <ObjDesc>Datos RFN</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/datosrfn</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Entidad</ObjName>
+      <ObjDesc>Entidad</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/entidad</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>EntMun</ObjName>
+      <ObjDesc>Municipio</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/entmun</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TPersona</ObjName>
+      <ObjDesc>TPersona</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tpersona</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>AreaPlaga</ObjName>
+      <ObjDesc>Area Plaga</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/areaplaga</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03043_C_1</ObjName>
+      <ObjDesc>Tramite03043_C_1</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043_c_1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Embalaje</ObjName>
+      <ObjDesc>Embalaje</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/embalaje</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TipEmbalaje</ObjName>
+      <ObjDesc>Tip Embalaje</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tipembalaje</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tratamientos</ObjName>
+      <ObjDesc>Tratamientos</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tratamientos</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RepresentanteLegal</ObjName>
+      <ObjDesc>Representante Legal</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/representantelegal</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>GobMX_Observa</ObjName>
+      <ObjDesc>Gob MX_Observa</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_observa</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>GobMX_Predio</ObjName>
+      <ObjDesc>Gob MX_Predio</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_predio</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>AnexaResolutivo</ObjName>
+      <ObjDesc>Anexa Resolutivo</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/anexaresolutivo</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>ObservaRBF</ObjName>
+      <ObjDesc>Observa RBF</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/observarbf</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>ObservaRBFA</ObjName>
+      <ObjDesc>Observa RBFA</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/observarbfa</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>PredioEJRLevel1Level2</ObjName>
+      <ObjDesc>Predio EJRLevel1 Level2</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/predioejrlevel1level2</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>PredioEJRLevel1Level3</ObjName>
+      <ObjDesc>Predio EJRLevel1 Level3</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/predioejrlevel1level3</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>GobMX_Especie</ObjName>
+      <ObjDesc>Gob MX_Especie</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_especie</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Predio</ObjName>
+      <ObjDesc>Predio</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/predio</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>PredioEjrLevel1</ObjName>
+      <ObjDesc>Predio Ejr Level1</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/predioejrlevel1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Especie</ObjName>
+      <ObjDesc>Especie</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/especie</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>EspecieNomEspecie</ObjName>
+      <ObjDesc>Especie Nom Especie</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/especienomespecie</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Genero</ObjName>
+      <ObjDesc>Genero</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/genero</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>UnidadMed</ObjName>
+      <ObjDesc>Unidad Med</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/unidadmed</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>ConfEspecie</ObjName>
+      <ObjDesc>Conf Especie</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/confespecie</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RBF</ObjName>
+      <ObjDesc>RBF</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/rbf</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RBFA</ObjName>
+      <ObjDesc>RBFA</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/rbfa</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RBFLevel2</ObjName>
+      <ObjDesc>RBFLevel2</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/rbflevel2</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Infraestructura</ObjName>
+      <ObjDesc>Infraestructura</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/infraestructura</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TBUsuarioPerfilSNGF</ObjName>
+      <ObjDesc>TBUsuario Perfil SNGF</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tbusuarioperfilsngf</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>GobMX_Material</ObjName>
+      <ObjDesc>Gob MX_Material</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_material</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>DatosTratamiento</ObjName>
+      <ObjDesc>Datos Tratamiento</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/datostratamiento</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>DatosTratamientoA</ObjName>
+      <ObjDesc>Datos Tratamiento A</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/datostratamientoa</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>ServidorFichasTecnicas</ObjName>
+      <ObjDesc>Servidor de fichas tecnicas</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/servidorfichastecnicas</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Paises</ObjName>
+      <ObjDesc>Paises</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/paises</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03047</ObjName>
+      <ObjDesc>Constancia de Inscripción</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03047</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03030</ObjName>
+      <ObjDesc>Aviso sobre detección de plagas o enfermedades forestales</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03030</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03030A</ObjName>
+      <ObjDesc>Tramite03030 A</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03030a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03043_A</ObjName>
+      <ObjDesc>Tramite03043_A</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043_a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03043_B</ObjName>
+      <ObjDesc>Tramite03043_B</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043_b</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite03043_C</ObjName>
+      <ObjDesc>Tramite03043_C</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043_c</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_A</ObjName>
+      <ObjDesc>Evaluación de datos del solicitante</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_C</ObjName>
+      <ObjDesc>Datos de recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_c</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_B</ObjName>
+      <ObjDesc>Representante legal</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_b</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_J</ObjName>
+      <ObjDesc>Datos del plano geográfico</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_j</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_D</ObjName>
+      <ObjDesc>Especie</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_d</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_E</ObjName>
+      <ObjDesc>Material</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_e</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_F</ObjName>
+      <ObjDesc>Observaciones</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_f</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_G</ObjName>
+      <ObjDesc>Infraestructura, materiales y métodos</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_g</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Tramite02004_H</ObjName>
+      <ObjDesc>Documentos que se anexan</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004_h</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>ASENTAMIENTO</ObjName>
+      <ObjDesc>ASENTAMIENTO</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/asentamiento</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>MUNICIPIO</ObjName>
+      <ObjDesc>MUNICIPIO</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/municipio</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>LOCALIDAD</ObjName>
+      <ObjDesc>LOCALIDAD</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/localidad</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TIPOASENTAMIENTO</ObjName>
+      <ObjDesc>TIPOASENTAMIENTO</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tipoasentamiento</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>VADENTIDADFISICA</ObjName>
+      <ObjDesc>VADENTIDADFISICA</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/vadentidadfisica</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Recurso</ObjName>
+      <ObjDesc>Recurso de Especie</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/recurso</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite03047a</ObjName>
+      <ObjDesc>Constancias de inscripción en el Registro Forestal Nacional (BW)</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03047a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite03047b</ObjName>
+      <ObjDesc>Constancias de inscripción en el Registro Forestal Nacional (BW)</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03047b</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Find_GOBMX</ObjName>
+      <ObjDesc>Fin de Captura</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/find_gobmx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite0330a</ObjName>
+      <ObjDesc>Datos de la persona que avisa</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite0330a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite0330b</ObjName>
+      <ObjDesc>Ubicación del área con presencia de plaga</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite0330b</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GX00A0</ObjName>
+      <ObjDesc>Selection List Bitacora</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gx00a0</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite03043a</ObjName>
+      <ObjDesc>Entrega semestral de informe de tratamientos aplicados</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite03043b</ObjName>
+      <ObjDesc>Representante legal</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043b</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite03043c</ObjName>
+      <ObjDesc>Entrega semestral de informe de tratamientos aplicados</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043c</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004k</ObjName>
+      <ObjDesc>Infraestructura y métodos</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004k</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004l</ObjName>
+      <ObjDesc>Documentación anexa</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004l</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004g</ObjName>
+      <ObjDesc>Datos de la recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004g</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004b</ObjName>
+      <ObjDesc>Representante legal</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004b</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14232_A</ObjName>
+      <ObjDesc>gobmx_tramite_14232_A</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14232_a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004c</ObjName>
+      <ObjDesc>Lugar de la recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004c</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004e</ObjName>
+      <ObjDesc>Datos de recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004e</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14232_J</ObjName>
+      <ObjDesc>Plano Georeferenciado</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14232_j</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>LugarRecoleccion</ObjName>
+      <ObjDesc>Lugar de Recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/lugarrecoleccion</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004f</ObjName>
+      <ObjDesc>Captura de coordenadas</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004f</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004d</ObjName>
+      <ObjDesc>Lugar de la recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004d</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Poligono</ObjName>
+      <ObjDesc>Poligono</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/poligono</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14192_ACopy1</ObjName>
+      <ObjDesc>gobmx_tramite_14192_A</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14192_acopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14192_BCopy1</ObjName>
+      <ObjDesc>gobmx_tramite_14192_B</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14192_bcopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004a</ObjName>
+      <ObjDesc>Evaluación de datos del solicitante</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004a</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14232_BCopy1</ObjName>
+      <ObjDesc>gobmx_tramite_14232_B</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14232_bcopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14232_B1Copy1</ObjName>
+      <ObjDesc>Documentación Anexa</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14232_b1copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14232_CCopy1</ObjName>
+      <ObjDesc>gobmx_tramite_14232_C</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14232_ccopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>gobmx_tramite_14232_HCopy1</ObjName>
+      <ObjDesc>gobmx_tramite_14232_H</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/gobmx_tramite_14232_hcopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004j</ObjName>
+      <ObjDesc>Plano Georeferenciado (Datos del plano geográfico)</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004j</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>HInfraestructura02004Copy1</ObjName>
+      <ObjDesc>Infraestructura y Métodos</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/hinfraestructura02004copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>HRBFAF402004Copy1</ObjName>
+      <ObjDesc>Especies Motivo de Recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/hrbfaf402004copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>HRBFAMAT02004Copy1</ObjName>
+      <ObjDesc>Material a Recolectar</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/hrbfamat02004copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>HRBFF402004Copy1</ObjName>
+      <ObjDesc>Datos de la Recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/hrbff402004copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>HRepresentanteLegalF402004Copy1</ObjName>
+      <ObjDesc>Representante Legal</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/hrepresentantelegalf402004copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>LugarRecoleccionCopy1</ObjName>
+      <ObjDesc>Lugar de Recolección</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/lugarrecoleccioncopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite03043c_MAC1</ObjName>
+      <ObjDesc>Entrega semestral de informe de tratamientos aplicados</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite03043c_mac1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Tramite02004lCopy1</ObjName>
+      <ObjDesc>Documentación anexa</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/tramite02004lcopy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>RTramite03_047Copy1</ObjName>
+      <ObjDesc>CONSTANCIA DE INSCRIPCIÓN EN EL REGISTRO FORESTAL NACIONAL</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/artramite03_047copy1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ReporteGral</ObjName>
+      <ObjDesc>Reporte para saber las coordenadas</ObjDesc>
+      <ObjLink>http://localhost:8080/GobMXJavaEnvironment/servlet/areportegral</ObjLink>
+   </Object>
+</Objects>

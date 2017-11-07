@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="51c89828-4af5-4c30-a19d-e91543b3bf1d">
+  <Table name="Bitacora" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="Predio" />
+  <Table name="PredioEjrLevel1" />
+</Dependencies>

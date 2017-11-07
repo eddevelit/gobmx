@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="d95ef809-5f41-4c3c-bd56-1c22083061b0">
+  <Table name="GobMX_Especie" />
+  <Table name="Especie" />
+  <Table name="EspecieNomEspecie" />
+</Dependencies>

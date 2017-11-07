@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="eadb0414-29e6-4ebb-a4e0-7d0d7b61a313">
+  <Table name="VEXDATOSUSUARIO" />
+  <Table name="VEXDATOSUSUARIOREP" />
+  <Table name="VLKCAT_VIALIDAD" />
+  <Table name="Vlkdelegacion_municipio" />
+  <Table name="Vlkentidadfederativa" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="Tramite03047" />
+  <Table name="DatosRFN" />
+</Dependencies>

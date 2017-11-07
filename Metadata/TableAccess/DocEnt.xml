@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="8bdf38be-b19e-4226-91c2-a34cdac65d40">
+  <Table name="Bitacora" />
+  <Table name="DocEnt" />
+</Dependencies>

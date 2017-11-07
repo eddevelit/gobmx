@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="90d61b6c-3c96-4da2-a02a-cbdf78a90fd8">
+  <Table name="Bitacora" />
+  <Table name="AnexaResolutivo" />
+</Dependencies>

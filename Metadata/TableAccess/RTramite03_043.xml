@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="12a36a7f-eece-46d1-8531-f81a68d9b520">
+  <Table name="VEXDATOSUSUARIO" />
+  <Table name="VEXDATOSUSUARIOREP" />
+  <Table name="VLKCAT_VIALIDAD" />
+  <Table name="Vlkdelegacion_municipio" />
+  <Table name="Vlkentidadfederativa" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="Embalaje" />
+  <Table name="TipEmbalaje" />
+  <Table name="Tratamientos" />
+  <Table name="Tramite03047" />
+  <Table name="Tramite03043_C_1" />
+  <Table name="Tramite03043_C" />
+  <Table name="DatosRFN" />
+</Dependencies>

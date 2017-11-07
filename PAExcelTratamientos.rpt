@@ -1,0 +1,981 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ver="2" type="prc">
+  <Bands>
+    <PrintBlock>
+      <Controls>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute1</RPT_INTERNAL_NAME>
+          <RPT_ID>4</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;Pgmdesc</ControlName>
+          <AttID>&amp;Pgmdesc</AttID>
+          <AttType>5</AttType>
+          <BaseAttType>5</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>30</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>225</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>220</RPT_WIDTH>
+          <RPT_WIDTH_Default>220</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>True</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+      </Controls>
+      <Properties>
+        <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+        <RPT_INTERNAL_NAME>HDR</RPT_INTERNAL_NAME>
+        <RPT_ID>1</RPT_ID>
+        <RPT_VISIBLE>True</RPT_VISIBLE>
+        <RPT_TEXT>Text</RPT_TEXT>
+        <RPT_X>74</RPT_X>
+        <RPT_Y>2</RPT_Y>
+        <RPT_WIDTH>701</RPT_WIDTH>
+        <RPT_HEIGHT>34</RPT_HEIGHT>
+      </Properties>
+    </PrintBlock>
+    <PrintBlock>
+      <Controls>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute2</RPT_INTERNAL_NAME>
+          <RPT_ID>5</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;ArchivoExcel</ControlName>
+          <AttID>&amp;ArchivoExcel</AttID>
+          <AttType>14</AttType>
+          <BaseAttType>14</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>20</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>17</RPT_Y>
+          <RPT_WIDTH>558</RPT_WIDTH>
+          <RPT_WIDTH_Default>147</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute3</RPT_INTERNAL_NAME>
+          <RPT_ID>6</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;L_DtrSolTrC</ControlName>
+          <AttID>&amp;L_DtrSolTrC</AttID>
+          <AttType>13</AttType>
+          <BaseAttType>13</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>60</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>33</RPT_Y>
+          <RPT_WIDTH>439</RPT_WIDTH>
+          <RPT_WIDTH_Default>439</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLArchivo</RPT_INTERNAL_NAME>
+          <RPT_ID>7</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Archivo</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>17</RPT_Y>
+          <RPT_WIDTH>46</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLSolicitante</RPT_INTERNAL_NAME>
+          <RPT_ID>8</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Solicitante</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>33</RPT_Y>
+          <RPT_WIDTH>64</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLTratamiento</RPT_INTERNAL_NAME>
+          <RPT_ID>9</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Tratamiento</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>50</RPT_Y>
+          <RPT_WIDTH>71</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute4</RPT_INTERNAL_NAME>
+          <RPT_ID>10</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;L_DTrTrataN</ControlName>
+          <AttID>&amp;L_DTrTrataN</AttID>
+          <AttType>5</AttType>
+          <BaseAttType>5</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>12</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>50</RPT_Y>
+          <RPT_WIDTH>89</RPT_WIDTH>
+          <RPT_WIDTH_Default>89</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLFolioFinal</RPT_INTERNAL_NAME>
+          <RPT_ID>13</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Folio final</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>83</RPT_Y>
+          <RPT_WIDTH>58</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute6</RPT_INTERNAL_NAME>
+          <RPT_ID>14</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;l_DTrFolFinN</ControlName>
+          <AttID>&amp;l_DTrFolFinN</AttID>
+          <AttType>5</AttType>
+          <BaseAttType>5</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>12</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>83</RPT_Y>
+          <RPT_WIDTH>89</RPT_WIDTH>
+          <RPT_WIDTH_Default>89</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLNoPiezas</RPT_INTERNAL_NAME>
+          <RPT_ID>15</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>No. de Piezas</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>100</RPT_Y>
+          <RPT_WIDTH>83</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute7</RPT_INTERNAL_NAME>
+          <RPT_ID>16</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;L_DTrNumPiN</ControlName>
+          <AttID>&amp;L_DTrNumPiN</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>14</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>100</RPT_Y>
+          <RPT_WIDTH>103</RPT_WIDTH>
+          <RPT_WIDTH_Default>103</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLEmbarque</RPT_INTERNAL_NAME>
+          <RPT_ID>17</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Embarque</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>117</RPT_Y>
+          <RPT_WIDTH>59</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLTipoEmbalaje</RPT_INTERNAL_NAME>
+          <RPT_ID>18</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Tipo de embalaje</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>133</RPT_Y>
+          <RPT_WIDTH>102</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute8</RPT_INTERNAL_NAME>
+          <RPT_ID>19</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;L_EmbDescc</ControlName>
+          <AttID>&amp;L_EmbDescc</AttID>
+          <AttType>13</AttType>
+          <BaseAttType>13</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>50</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>117</RPT_Y>
+          <RPT_WIDTH>366</RPT_WIDTH>
+          <RPT_WIDTH_Default>366</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute9</RPT_INTERNAL_NAME>
+          <RPT_ID>20</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;LTemDescc</ControlName>
+          <AttID>&amp;LTemDescc</AttID>
+          <AttType>13</AttType>
+          <BaseAttType>13</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>50</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>133</RPT_Y>
+          <RPT_WIDTH>366</RPT_WIDTH>
+          <RPT_WIDTH_Default>366</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLCont</RPT_INTERNAL_NAME>
+          <RPT_ID>21</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Cont</RPT_TEXT>
+          <RPT_X>8</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>28</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute10</RPT_INTERNAL_NAME>
+          <RPT_ID>22</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;Cont</ControlName>
+          <AttID>&amp;Cont</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>10</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>42</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>74</RPT_WIDTH>
+          <RPT_WIDTH_Default>74</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLine>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportLine1</RPT_INTERNAL_NAME>
+          <RPT_ID>23</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_X>0</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>717</RPT_WIDTH>
+          <RPT_HEIGHT>1</RPT_HEIGHT>
+          <RPT_FORECOLOR>LightGray, ARGB(255,211,211,211)</RPT_FORECOLOR>
+          <RPT_LINEDIRECTION>Horizontal</RPT_LINEDIRECTION>
+          <RPT_LINEWIDTH>1</RPT_LINEWIDTH>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+        </ReportLine>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute12</RPT_INTERNAL_NAME>
+          <RPT_ID>27</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;L_DTrFolIniN</ControlName>
+          <AttID>&amp;L_DTrFolIniN</AttID>
+          <AttType>5</AttType>
+          <BaseAttType>5</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>12</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>67</RPT_Y>
+          <RPT_WIDTH>89</RPT_WIDTH>
+          <RPT_WIDTH_Default>89</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportLabel2</RPT_INTERNAL_NAME>
+          <RPT_ID>28</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Folio inicial</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>67</RPT_Y>
+          <RPT_WIDTH>68</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute13</RPT_INTERNAL_NAME>
+          <RPT_ID>29</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;EmbIdn</ControlName>
+          <AttID>&amp;EmbIdn</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>2</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>650</RPT_X>
+          <RPT_Y>117</RPT_Y>
+          <RPT_WIDTH>16</RPT_WIDTH>
+          <RPT_WIDTH_Default>16</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute14</RPT_INTERNAL_NAME>
+          <RPT_ID>30</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;TemIdn</ControlName>
+          <AttID>&amp;TemIdn</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>2</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>650</RPT_X>
+          <RPT_Y>133</RPT_Y>
+          <RPT_WIDTH>16</RPT_WIDTH>
+          <RPT_WIDTH_Default>16</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportLabel3</RPT_INTERNAL_NAME>
+          <RPT_ID>31</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Valores obtenidos</RPT_TEXT>
+          <RPT_X>608</RPT_X>
+          <RPT_Y>100</RPT_Y>
+          <RPT_WIDTH>106</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute15</RPT_INTERNAL_NAME>
+          <RPT_ID>32</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;FolioSinatec</ControlName>
+          <AttID>&amp;FolioSinatec</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>18</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>233</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>132</RPT_WIDTH>
+          <RPT_WIDTH_Default>132</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportLabel4</RPT_INTERNAL_NAME>
+          <RPT_ID>33</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Folio SINATEC</RPT_TEXT>
+          <RPT_X>125</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>89</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+      </Controls>
+      <Properties>
+        <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+        <RPT_INTERNAL_NAME>REGISTROS</RPT_INTERNAL_NAME>
+        <RPT_ID>2</RPT_ID>
+        <RPT_VISIBLE>True</RPT_VISIBLE>
+        <RPT_TEXT>Text</RPT_TEXT>
+        <RPT_X>0</RPT_X>
+        <RPT_Y>0</RPT_Y>
+        <RPT_WIDTH>100</RPT_WIDTH>
+        <RPT_HEIGHT>160</RPT_HEIGHT>
+      </Properties>
+    </PrintBlock>
+    <PrintBlock>
+      <Controls>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute5</RPT_INTERNAL_NAME>
+          <RPT_ID>11</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;Page</ControlName>
+          <AttID>&amp;Page</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>6</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>675</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>45</RPT_WIDTH>
+          <RPT_WIDTH_Default>45</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>True</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>LBLPagin</RPT_INTERNAL_NAME>
+          <RPT_ID>12</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Página</RPT_TEXT>
+          <RPT_X>625</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>42</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+        <ReportAttribute>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportAttribute11</RPT_INTERNAL_NAME>
+          <RPT_ID>25</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <ControlName>&amp;Cont</ControlName>
+          <AttID>&amp;Cont</AttID>
+          <AttType>4</AttType>
+          <BaseAttType>4</BaseAttType>
+          <PROP_EXT_BASE_ATT_COLLECTION>False</PROP_EXT_BASE_ATT_COLLECTION>
+          <GxObjClass>1</GxObjClass>
+          <isVariable>True</isVariable>
+          <isAttribute>False</isAttribute>
+          <ColCount>10</ColCount>
+          <ControlType>Edit</ControlType>
+          <IsEnumerated>False</IsEnumerated>
+          <RowIndex>1</RowIndex>
+          <ColIndex>1</ColIndex>
+          <AttNumDim>0</AttNumDim>
+          <AttCollection>False</AttCollection>
+          <idIsSDControl>False</idIsSDControl>
+          <RPT_TEXT>Text</RPT_TEXT>
+          <RPT_X>508</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>74</RPT_WIDTH>
+          <RPT_WIDTH_Default>74</RPT_WIDTH_Default>
+          <RPT_HEIGHT>17</RPT_HEIGHT>
+          <RPT_HEIGHT_Default>17</RPT_HEIGHT_Default>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopRight</RPT_ALIGNMENT>
+          <RPT_FONT>Courier New, 9pt</RPT_FONT>
+          <GxFormat>Text</GxFormat>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+          <AttEditNameProtected>False</AttEditNameProtected>
+          <IsStandardVariable>False</IsStandardVariable>
+          <idIsAutoDefinedVariable>False</idIsAutoDefinedVariable>
+          <AttEditDisableArrays>False</AttEditDisableArrays>
+          <AttEditNewVariable>False</AttEditNewVariable>
+          <AttEditDontAssign>False</AttEditDontAssign>
+        </ReportAttribute>
+        <ReportLabel>
+          <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+          <RPT_INTERNAL_NAME>gxReportLabel1</RPT_INTERNAL_NAME>
+          <RPT_ID>26</RPT_ID>
+          <RPT_VISIBLE>True</RPT_VISIBLE>
+          <RPT_TEXT>Cont</RPT_TEXT>
+          <RPT_X>475</RPT_X>
+          <RPT_Y>0</RPT_Y>
+          <RPT_WIDTH>28</RPT_WIDTH>
+          <RPT_HEIGHT>14</RPT_HEIGHT>
+          <RPT_FORECOLOR>Black, ARGB(255,0,0,0)</RPT_FORECOLOR>
+          <RPT_BACKCOLOR>Transparent, ARGB(0,255,255,255)</RPT_BACKCOLOR>
+          <RPT_BORDERS>None</RPT_BORDERS>
+          <RPT_BORDERWIDTH>1</RPT_BORDERWIDTH>
+          <RPT_BORDERCOLOR>Black, ARGB(255,0,0,0)</RPT_BORDERCOLOR>
+          <RPT_ALIGNMENT>TopLeft</RPT_ALIGNMENT>
+          <RPT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_FONT>
+          <RPT_WORDWRAP>False</RPT_WORDWRAP>
+        </ReportLabel>
+      </Controls>
+      <Properties>
+        <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+        <RPT_INTERNAL_NAME>FTR</RPT_INTERNAL_NAME>
+        <RPT_ID>3</RPT_ID>
+        <RPT_VISIBLE>True</RPT_VISIBLE>
+        <RPT_TEXT>Text</RPT_TEXT>
+        <RPT_X>0</RPT_X>
+        <RPT_Y>0</RPT_Y>
+        <RPT_WIDTH>100</RPT_WIDTH>
+        <RPT_HEIGHT>17</RPT_HEIGHT>
+      </Properties>
+    </PrintBlock>
+  </Bands>
+  <Properties>
+    <RPT_TEXT_MODE>False</RPT_TEXT_MODE>
+    <RPT_PAPER_SIZE>Letter</RPT_PAPER_SIZE>
+    <RPT_PAPER_ORIENTATION>Portrait</RPT_PAPER_ORIENTATION>
+    <RPT_PAPER_WIDTH>850</RPT_PAPER_WIDTH>
+    <RPT_PAPER_HEIGHT>1100</RPT_PAPER_HEIGHT>
+    <RPT_RIGHT_MARGIN>51</RPT_RIGHT_MARGIN>
+    <RPT_ATT_FONT>Courier New, 9pt</RPT_ATT_FONT>
+    <RPT_TXT_FONT>Microsoft Sans Serif, 8pt, style=Bold</RPT_TXT_FONT>
+  </Properties>
+</Report>

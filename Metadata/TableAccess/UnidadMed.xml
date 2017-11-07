@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="cffd5e97-5a71-4102-a5f4-896dfb43caf7">
+  <Table name="UnidadMed" />
+  <Table name="RBFA" />
+</Dependencies>

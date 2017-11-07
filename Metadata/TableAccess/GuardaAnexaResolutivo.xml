@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="3de4f15c-9e17-41ba-b5eb-51972efa83ed">
+  <Table name="AnexaResolutivo" />
+  <Table name="Folios" />
+</Dependencies>

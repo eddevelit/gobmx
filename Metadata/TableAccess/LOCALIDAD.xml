@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="737668bb-af27-4143-b997-af788a2654a8">
+  <Table name="Entidad" />
+  <Table name="MUNICIPIO" />
+  <Table name="LOCALIDAD" />
+</Dependencies>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e38b6b15-2395-409d-b976-62311de975db">
+  <Table name="Bitacora" />
+  <Table name="Vinculos" />
+  <Table name="DatosSolicitud" />
+  <Table name="DatosRFN" />
+</Dependencies>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="2e756f9a-ea5b-4162-afa9-1e3d0d23a542">
+  <Table name="VEXDATOSUSUARIO" />
+  <Table name="VLKCAT_TIPO_ASEN" />
+</Dependencies>

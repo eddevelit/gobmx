@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e25224a4-5774-4925-bbbb-7e0e6a90dd96">
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="GobMX_Observa" />
+</Dependencies>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="cba8a3dd-c796-425a-a27a-1216d8f2b998">
+  <Table name="DatosSolicitud" />
+  <Table name="Folios" />
+</Dependencies>

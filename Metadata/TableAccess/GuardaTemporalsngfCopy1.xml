@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="c2d6e404-8871-49de-93a5-305d96b67cb3">
+  <Table name="GobMX_Observa" />
+  <Table name="GobMX_Predio" />
+  <Table name="GobMX_PredioCoo" />
+  <Table name="ObservaRBF" />
+  <Table name="ObservaRBFA" />
+  <Table name="Predio" />
+  <Table name="PredioEjrLevel1" />
+  <Table name="Folios" />
+  <Table name="PredioEJRLevel1Level2" />
+  <Table name="PredioEJRLevel1Level3" />
+</Dependencies>

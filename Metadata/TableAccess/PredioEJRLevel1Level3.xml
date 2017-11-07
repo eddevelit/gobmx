@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="8adbf994-237d-4ae5-80d5-584cd976c4bd">
+  <Table name="PredioEJRLevel1Level3" />
+  <Table name="PredioEjrLevel1" />
+</Dependencies>

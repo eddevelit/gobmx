@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="91c32f54-055a-40c0-8f21-0832561ebaee">
+  <Table name="Bitacora" />
+  <Table name="Entidad" />
+  <Table name="EntMun" />
+  <Table name="GobMX_Observa" />
+  <Table name="Tramite02004_F" />
+  <Table name="MUNICIPIO" />
+</Dependencies>

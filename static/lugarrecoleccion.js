@@ -1,0 +1,2 @@
+gx.evt.autoSkip=!1;function lugarrecoleccion(){this.ServerClass="LugarRecoleccion";this.PackageName="";this.setObjectType("web");this.skipOnEnter=this.hasEnterEvent=!1;this.autoRefresh=!0;this.SetStandaloneVars=function(){};this.e12102_client=function(){this.executeServerEvent("ENTER",!0)};this.e13102_client=function(){this.executeServerEvent("CANCEL",!0)};this.GXValidFnc=[];this.GXLastCtrlId=0;this.ServerEvents=["e12102_client","e13102_client"];this.SetStandaloneVars()}
+lugarrecoleccion.prototype=new gx.GxObject;gx.setParentObj(new lugarrecoleccion);

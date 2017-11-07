@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="3ecfb3d0-13b9-479e-acb4-fa3a27100f6f">
+  <Table name="RepresentanteLegal" />
+  <Table name="Paises" />
+</Dependencies>
